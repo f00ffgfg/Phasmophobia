@@ -1,0 +1,87 @@
+header
+{
+    background-image: url("https://phasmophobia.su/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FaboutUsBanner.90daa3e2.webp&w=3840&q=75&dpl=dpl_HvvPFMDhuCUUL8YzVFDiz8puagZp");
+    height:900px;
+    background-size: cover;
+}
+body
+{
+    padding:0px;
+    margin:0px;
+}
+ul
+{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    background:rgb(0, 0, 0);
+    height:50px;
+    display: flex;
+    justify-content: space-around;
+}
+a
+{
+    text-decoration: none;
+    background: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+    padding:0px 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height:50px;
+    display:block;
+}
+#h11
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+    margin-top:180px;
+    text-align: center;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:white;
+}
+main{
+    background-color: #0f0f0f;
+    height:1000px;
+}
+*
+{
+    margin:0;
+    padding:0;
+}
+.h1text
+{
+    display: flex;
+    justify-content: center;
+    padding:15px;
+}
+.h1text2
+{
+    display: flex;
+    justify-content: center;
+    font-size:27px;
+}
+#idid
+{
+    margin-top:60px;
+    margin-bottom:40px;
+}
+.kartinka123
+{
+    width:500px;
+    height:300px;
+    margin-top:100px;
+}
+.justify
+{
+    display: flex;
+    justify-content: space-around;
+}
+.margin-top
+{
+    margin-top:100px;
+}
+.shrift2
+{
+    font-size:23px;
+}
