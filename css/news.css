@@ -29,7 +29,7 @@ h1{
 }
 main{
     background-color: #0f0f0f;
-    height:1050px;
+    height:850px;
 }
 *
 {
@@ -50,7 +50,7 @@ main{
 }
 .kartinka
 {
-    width:300px;
+    width:350px;
     height:200px;
     border-radius:8%;
 }
@@ -62,16 +62,22 @@ main{
     margin-top:40px;
     width:80%;
     margin: 0 auto;
-    padding-top:50px;
+    padding-top:100px;
 }
 .texth1
 {
     font-size:20px;
-    margin-top:30px;
+}
+.a1{
+    background-color: #0f0f0f;
 }
 .divcontainer
 {
     background-color:rgb(44, 44, 44);
-    height:280px;
+    height:300px;
     border-radius:8%;
+}
+.texth1cpec
+{
+    font-size:16px;
 }

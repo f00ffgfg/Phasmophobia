@@ -29,7 +29,7 @@ h1{
 }
 main{
     background-color: #0f0f0f;
-    height:1050px;
+    height:1130px;
 }
 *
 {
@@ -52,7 +52,7 @@ main{
 {
     width:300px;
     height:200px;
-    border-radius:10%;
+    border-radius:8%;
 }
 .str1
 {
@@ -68,4 +68,10 @@ main{
 {
     font-size:20px;
     margin-top:30px;
+}
+.divcontainer
+{
+    background-color:rgb(44, 44, 44);
+    height:280px;
+    border-radius:8%;
 }
